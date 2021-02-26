@@ -1,66 +1,14 @@
 # Changelog
 
-## [v2.0.0-beta5](https://github.com/falkyre/nhl-led-portal-img/tree/v2.0.0-beta5) (2021-02-22)
+## [v1.6.0-beta1](https://github.com/nhl-led-portal/image/tree/v1.6.0-beta1) (2021-02-25)
 
-## [v2.0.0-beta4](https://github.com/falkyre/nhl-led-portal-img/tree/v2.0.0-beta4) (2021-02-20)
+## [v2.0.0-beta5](https://github.com/nhl-led-portal/image/tree/v2.0.0-beta5) (2021-02-22)
 
-## [v2.0.0-beta3](https://github.com/falkyre/nhl-led-portal-img/tree/v2.0.0-beta3) (2021-02-11)
+## [v2.0.0-beta4](https://github.com/nhl-led-portal/image/tree/v2.0.0-beta4) (2021-02-20)
 
-## [v2.0.0-beta2](https://github.com/falkyre/nhl-led-portal-img/tree/v2.0.0-beta2) (2021-02-05)
+## [v2.0.0-beta3](https://github.com/nhl-led-portal/image/tree/v2.0.0-beta3) (2021-02-11)
 
-## [v2.0-beta](https://github.com/falkyre/nhl-led-portal-img/tree/v2.0-beta) (2021-01-27)
-
-## [v2.0beta](https://github.com/falkyre/nhl-led-portal-img/tree/v2.0beta) (2021-01-27)
-
-## [2020-12-02-raspbian-buster](https://github.com/falkyre/nhl-led-portal-img/tree/2020-12-02-raspbian-buster) (2020-11-27)
-
-## [2020-08-20-raspbian-buster](https://github.com/falkyre/nhl-led-portal-img/tree/2020-08-20-raspbian-buster) (2020-06-22)
-
-## [2020-05-27-raspbian-buster](https://github.com/falkyre/nhl-led-portal-img/tree/2020-05-27-raspbian-buster) (2020-05-19)
-
-## [2020-02-13-raspbian-buster](https://github.com/falkyre/nhl-led-portal-img/tree/2020-02-13-raspbian-buster) (2020-02-13)
-
-## [2020-02-05-raspbian-buster](https://github.com/falkyre/nhl-led-portal-img/tree/2020-02-05-raspbian-buster) (2020-02-05)
-
-## [2019-09-26-raspbian-buster](https://github.com/falkyre/nhl-led-portal-img/tree/2019-09-26-raspbian-buster) (2019-09-25)
-
-## [2019-07-10-raspbian-buster](https://github.com/falkyre/nhl-led-portal-img/tree/2019-07-10-raspbian-buster) (2019-07-08)
-
-## [2019-06-20-raspbian-buster](https://github.com/falkyre/nhl-led-portal-img/tree/2019-06-20-raspbian-buster) (2019-06-17)
-
-## [2019-04-08-raspbian-stretch](https://github.com/falkyre/nhl-led-portal-img/tree/2019-04-08-raspbian-stretch) (2019-04-02)
-
-## [2018-11-13-raspbian-stretch](https://github.com/falkyre/nhl-led-portal-img/tree/2018-11-13-raspbian-stretch) (2018-11-14)
-
-## [2018-10-09-raspbian-stretch](https://github.com/falkyre/nhl-led-portal-img/tree/2018-10-09-raspbian-stretch) (2018-10-09)
-
-## [2018-06-27-raspbian-stretch](https://github.com/falkyre/nhl-led-portal-img/tree/2018-06-27-raspbian-stretch) (2018-06-19)
-
-## [2018-03-13-raspbian-stretch](https://github.com/falkyre/nhl-led-portal-img/tree/2018-03-13-raspbian-stretch) (2018-03-15)
-
-## [2017-11-29-raspbian-stretch](https://github.com/falkyre/nhl-led-portal-img/tree/2017-11-29-raspbian-stretch) (2017-11-24)
-
-## [2017-09-07-raspbian-stretch](https://github.com/falkyre/nhl-led-portal-img/tree/2017-09-07-raspbian-stretch) (2017-09-05)
-
-## [2017-08-16-raspbian-stretch](https://github.com/falkyre/nhl-led-portal-img/tree/2017-08-16-raspbian-stretch) (2017-08-14)
-
-## [2017-08-16-raspbian-jessie](https://github.com/falkyre/nhl-led-portal-img/tree/2017-08-16-raspbian-jessie) (2017-08-14)
-
-## [2017-07-05-raspbian-jessie](https://github.com/falkyre/nhl-led-portal-img/tree/2017-07-05-raspbian-jessie) (2017-07-05)
-
-## [2017-06-21-raspbian-jessie](https://github.com/falkyre/nhl-led-portal-img/tree/2017-06-21-raspbian-jessie) (2017-06-21)
-
-## [2017-04-10-raspbian-jessie](https://github.com/falkyre/nhl-led-portal-img/tree/2017-04-10-raspbian-jessie) (2017-04-05)
-
-## [2017-03-02-raspbian-jessie](https://github.com/falkyre/nhl-led-portal-img/tree/2017-03-02-raspbian-jessie) (2017-03-06)
-
-## [2016-11-25-raspbian-jessie](https://github.com/falkyre/nhl-led-portal-img/tree/2016-11-25-raspbian-jessie) (2016-11-29)
-
-## [2016-09-23-raspbian-jessie](https://github.com/falkyre/nhl-led-portal-img/tree/2016-09-23-raspbian-jessie) (2016-09-20)
-
-## [2016-05-27-raspbian-jessie](https://github.com/falkyre/nhl-led-portal-img/tree/2016-05-27-raspbian-jessie) (2016-05-27)
-
-## [2016-05-10-raspbian-jessie](https://github.com/falkyre/nhl-led-portal-img/tree/2016-05-10-raspbian-jessie) (2016-05-09)
+## [v2.0.0-beta2](https://github.com/nhl-led-portal/image/tree/v2.0.0-beta2) (2021-02-05)
 
 
 
