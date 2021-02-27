@@ -9,7 +9,7 @@
 # NHL LED Scoreboard Raspberry Pi Image
 [![.github/workflows/createrelease.yml](https://github.com/nhl-led-portal/image/actions/workflows/createrelease.yml/badge.svg)](https://github.com/nhl-led-portal/image/actions/workflows/createrelease.yml)
 [![GitHub release (latest by date)](https://badgen.net/github/release/nhl-led-portal/image?label=Version)](https://github.com/nhl-led-portal/releases/latest)
-[![GitHub All Releases](https://img.shields.io/github/downloads/nhl-led-portal/image/total)
+[![GitHub All Releases](https://img.shields.io/github/downloads/nhl-led-portal/image/total)]
 
 
 </span>
@@ -28,7 +28,7 @@ Downloading the *NHL LED Scoreboard Raspberry Pi Image* is completely free (no s
 
 <span align="center">
   
-### [Download Latest Version](https://github.com/falkyre/nhl-led-portal-img/releases/latest)
+### [Download Latest Version](https://github.com/nhl-led-portal/image/releases/latest)
   
 </span>
 
@@ -133,3 +133,10 @@ This table contains important information about the command line tools you can u
 
 
 ## Raspberty Pi OS Settings
+
+This raspberry pi image is built on top of the latest Raspberry Pi OS lite.  Added to this version is the following:
+
+* Auto set timezone based on geolocation of your IP address. 
+* There is a login banner that shows various system info for your raspberry pi (including timezone).  It can manually be run by using the `sb-sysinfo`
+* /var/log, swap and /home/pi are all set to exist in zram.  /var/log and /homepi will get written back to the SD card on boot or under a filesystem sync.  Settings for the sizes are in /etc/ztab
+* raspi-config is still available with all options as a normal raspberry pi.  So if your time zone is not set correctly or you don't like your hostname, you can still use raspi-config for changes
